@@ -40,7 +40,7 @@
                             alert("用户名密码不符");
                         } else {
 
-                            window.location.href = "../../../时尚潮流/index.html";
+                            window.location.href = "../../index.html";
 
                             localStorage.setItem("userID", $(".login-name").val());
                         }
