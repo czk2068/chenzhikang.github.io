@@ -1,0 +1,342 @@
+<!Doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>米折</title>
+		<link rel="stylesheet" type="text/css" href="../css/mz.css">
+	</head>
+	<body>
+		<div id="header">
+			<div class="header_all">
+				<div class="header_left">
+					<img src="../images/mizhe_08.gif"><a href="#">QQ登录</a><b></b>
+					<p>请登录
+					<span>免费注册</span></p>
+				</div>
+				<div class="header_right">
+					<a href="#">我的米折</a>
+					<a href="#">我的订单</a>
+					<a href="#">消息</a>
+					<a href="#">邀请好友<img src="../images/mizhe_03.gif" style="float:right;"></a>
+					<a href="#">帮助中心</a>
+					<a href="#">联系客服</a>
+					<a href="#"><img src="../images/mizhe_05.gif" style="float:left;">手机米折</a>
+					<a href="#" style="border:0;">关注<b></b></a>
+				</div>
+			</div>
+		</div>
+		<div id="logo">
+			<div class="logo_all">
+				<div class="logo_left">
+					<img src="../images/mizhe_17.gif">
+				</div>
+				<div class="logo_center">
+					<div class="logo_center_left">
+						<div class="logo_center_left_left">
+							<a href="#">淘宝<img src="../images/0_07.gif"></a>
+						</div>
+						<div class="logo_center_left_right">
+							<input placeholder="粘贴淘宝/天猫商品标题在这，如韩都衣舍连衣裙..."/>
+						</div>
+					</div>
+					<a href="#"><img src="../images/mizhe_19.gif" style="margin-top:3px;"></a>
+				</div>
+				<div class="logo_right">
+					<a href="#"><img src="../images/mizhe_14.gif" style="float:right;margin-top:2px;"></a>
+				</div>
+			</div>
+		</div>
+		<div id="daohang">
+			<div class="daohang_all">
+				<div class="daohang_all_left">
+					<ul>
+						<li>首页</li>
+						<li>品牌特卖</li>
+						<li>10元购</li>
+						<li>购物返利</li>
+						<li>手机客户端</li>
+						<li>贝贝网</li>
+					</ul>
+					<div class="hot">
+						<div class="hot_top"><p>HOT</p></div>
+						<div class="hot_bottom"><b></b></div>
+					</div>
+				</div>
+				<div class="daohang_all_right">
+					<p>商家中心</p>
+				</div>
+			</div>
+		</div>
+		<div id="content">
+			<div class="content_top">
+				<div class="content_top_left">
+					<a href="#"><img src="../images/mizhe_22.gif"></a>
+					<a href="#"><img src="../images/mizhe_23.gif"></a>
+					<a href="#"><img src="../images/mizhe_31.gif"></a>
+				</div>
+				<div class="content_top_right">
+					<a href="#"><img src="../images/mizhe_26.gif" style="margin-left:20px;margin-top:25px;"></a>
+					<p>已有账号，马上<a href="#">登录</a></p>
+					<hr color="#dddddd"/>
+					<div class="baoyou">
+						<img src="../images/mizhe_29.gif">
+						<span style="color:#666666;">包邮专享福利</span>
+						<span style="color:#bbbbbb;font-variant:small-caps;">Free shipping</span>
+					</div>
+					<div class="baoyou">
+						<img src="../images/mizhe_33.gif" style="margin-top:3px;">
+						<span style="color:#666666;">专业买手砍价</span>
+						<span style="color:#bbbbbb;font-variant:small-caps;">Hard bargain</span>
+					</div>
+					<div class="baoyou">
+						<img src="../images/mizhe_35.gif" style="margin-top:2px;">
+						<span style="color:#666666;">商品人工质检</span>
+						<span style="color:#bbbbbb;font-variant:small-caps;">Ouality inspection</span>
+					</div>
+				</div>
+			</div>
+			<div class="content_middle">
+				<div class="top">
+					<img src="../images/mizhe_42.gif" style="position:absolute;">
+					<img src="../images/mizhe_15.gif" style="width:160px;margin-top:11px;margin-left:13px;">
+					<p>¥<b>59</b>.00</p>
+					<span>3.5折包邮</span>
+				</div>
+				<div class="top">
+					<img src="../images/7_03.gif" style="position:absolute;">
+					<img src="../images/4.jpg" style="width:160px;margin-top:11px;margin-left:12px;">
+					<p>¥<b>19</b>.90</p>
+					<span>1.5折包邮</span>
+				</div>
+				<div class="top">
+					<img src="../images/mizhe_42.gif" style="position:absolute;">
+					<img src="../images/6.jpg" style="width:160px;margin-top:11px;margin-left:13px;">
+					<p>¥<b>55</b>.80</p>
+					<span>2.8折包邮</span>
+				</div>
+				<div class="top">
+					<img src="../images/mizhe_42.gif" style="position:absolute;">
+					<img src="../images/3.jpg" style="width:160px;margin-top:11px;margin-left:13px;">
+					<p>¥<b>19</b>.00</p>
+					<span>2.3折包邮</span>
+				</div>
+				<div class="top">
+					<img src="../images/mizhe_42.gif" style="position:absolute;">
+					<img src="../images/5.jpg" style="width:160px;margin-top:11px;margin-left:13px;">
+					<p>¥<b>27</b>.90</p>
+					<span>3.5折包邮</span>
+				</div>
+			</div>
+			<div class="content_bottom">
+				<div class="content_bottom_top">
+					<h2>今日特卖</h2><h2 style="color:#d2d2d2;">/</h2>
+					<img src="../images/1_07.gif">
+					<p>本场剩余：16小时59分42秒</p>
+				</div>
+				<div class="content_bottom_bottom">
+					<div class="content_bottom_bottom_top">
+						<ul>
+							<li style="margin-left:20px;">全部</li>
+							<li>女装</li>
+							<li>居家</li>
+							<li>母婴</li>
+							<li>鞋包</li>
+							<li>配饰</li>
+							<li>美食</li>
+							<li>数码</li>
+							<li>美妆</li>
+							<li>热卖排行</li>
+							<li style="color:#ef438d;">9.9包邮</li>
+							<li style="color:#ef438d;">明日精选</li>
+						</ul>
+					</div>
+					<div class="content_bottom_bottom_bottom">
+						<div class="shangpin">
+							<img src="../images/mizhe_15.gif">
+							<p>¥<b>59</b>.00</p>
+							<div class="yuanjia">
+								<img src="../images/mizhe_46.gif">
+								<span>¥168</span>
+							</div>
+							<span style="margin-top:29px;">3450人已开抢</span>
+						</div>
+						<div class="shangpin">
+							<img src="../images/mi_03.gif">
+							<p>¥<b>169</b>.00</p>
+							<div class="yuanjia">
+								<img src="../images/mizhe_47.gif">
+								<span>¥699</span>
+							</div>
+							<span style="margin-top:29px;">873人已开抢</span>
+						</div>
+						<div class="shangpin">
+							<img src="../images/mi_05.gif">
+							<p>¥<b>19</b>.90</p>
+							<div class="yuanjia" style="margin-top:6px;">
+								<div class="zhekou"><a>1折</a></div>
+								<span style="margin-left:8px;">¥198</span>
+							</div>
+							<span style="margin-top:29px;">10056人已开抢</span>
+						</div>
+						<div class="shangpin">
+							<img src="../images/mi_07.gif">
+							<p>¥<b>19</b>.90</p>
+							<div class="yuanjia" style="margin-top:6px;">
+								<div class="zhekou"><a>1.8折</a></div>
+								<span style="margin-left:8px;">¥108</span>
+							</div>
+							<span style="margin-top:29px;">5781人已开抢</span>
+						</div>
+						<hr color="#eeeeee" style="float:left;width:990px;margin-top:20px;"/>
+						<div class="shangpin">
+							<img src="../images/mi_20.gif">
+							<p>¥<b>55</b>.00</p>
+							<div class="yuanjia">
+								<img src="../images/mizhe_46.gif">
+								<span>¥299</span>
+							</div>
+							<span style="margin-top:29px;">5368人已开抢</span>
+						</div>
+						<div class="shangpin">
+							<img src="../images/mi_22.gif">
+							<p>¥<b>29</b>.90</p>
+							<div class="yuanjia">
+								<img src="../images/mizhe_47.gif">
+								<span>¥299</span>
+							</div>
+							<span style="margin-top:29px;">607人已开抢</span>
+						</div>
+						<div class="shangpin">
+							<img src="../images/mi_24.gif">
+							<p>¥<b>17</b>.80</p>
+							<div class="yuanjia" style="margin-top:6px;">
+								<div class="zhekou"><a>1.7折</a></div>
+								<span style="margin-left:8px;">¥99</span>
+							</div>
+							<span style="margin-top:29px;">7297人已开抢</span>
+						</div>
+						<div class="shangpin">
+							<img src="../images/mi_26.gif">
+							<p>¥<b>19</b>.80</p>
+							<div class="yuanjia" style="margin-top:6px;">
+								<div class="zhekou"><a>2.2折</a></div>
+								<span style="margin-left:8px;">¥89</span>
+							</div>
+							<span style="margin-top:29px;">12112人已开抢</span>
+						</div>
+						<hr color="#eeeeee" style="float:left;width:990px;margin-top:20px;"/>
+						<div class="shangpin">
+							<img src="../images/mi_31.gif">
+							<p>¥<b>89</b>.00</p>
+							<div class="yuanjia">
+								<img src="../images/mizhe_46.gif">
+								<span>¥599</span>
+							</div>
+							<span style="margin-top:29px;">553人已开抢</span>
+						</div>
+						<div class="shangpin">
+							<img src="../images/mi_32.gif">
+							<p>¥<b>43</b>.90</p>
+							<div class="yuanjia">
+								<img src="../images/mizhe_47.gif">
+								<span>¥230</span>
+							</div>
+							<span style="margin-top:29px;">683人已开抢</span>
+						</div>
+						<div class="shangpin">
+							<img src="../images/mi_33.gif">
+							<p>¥<b>13</b>.80</p>
+							<div class="yuanjia" style="margin-top:6px;">
+								<div class="zhekou"><a>3.9折</a></div>
+								<span style="margin-left:8px;">¥35</span>
+							</div>
+							<span style="margin-top:29px;">2368人已开抢</span>
+						</div>
+						<div class="shangpin">
+							<img src="../images/2_41.gif">
+							<p>¥<b>11</b>.90</p>
+							<div class="yuanjia" style="margin-top:6px;">
+								<div class="zhekou"><a>2.3折</a></div>
+								<span style="margin-left:8px;">¥49.9</span>
+							</div>
+							<span style="margin-top:29px;">1364人已开抢</span>
+						</div>
+						<hr color="#eeeeee" style="float:left;width:990px;margin-top:20px;"/>
+						<div class="shangpin">
+							<img src="../images/mi_39.gif">
+							<p>¥<b>8</b>.90</p>
+							<div class="yuanjia" style="margin-top:6px;">
+								<div class="zhekou"><a>0.9折</a></div>
+								<span style="margin-left:8px;">¥89.9</span>
+							</div>
+							<span style="margin-top:29px;">2876人已开抢</span>
+						</div>
+						<div class="shangpin">
+							<img src="../images/mi_40.gif">
+							<p>¥<b>9</b>.90</p>
+							<div class="yuanjia" style="margin-top:6px;">
+								<div class="zhekou"><a>2.3折</a></div>
+								<span style="margin-left:8px;">¥42</span>
+							</div>
+							<span style="margin-top:29px;">1447人已开抢</span>
+						</div>
+						<div class="shangpin">
+							<img src="../images/mi_41.gif">
+							<p>¥<b>9</b>.80</p>
+							<div class="yuanjia" style="margin-top:6px;">
+								<div class="zhekou"><a>1.9折</a></div>
+								<span style="margin-left:8px;">¥49.8</span>
+							</div>
+							<span style="margin-top:29px;">595人已开抢</span>
+						</div>
+						<div class="shangpin">
+							<img src="../images/mi_42.gif">
+							<p>¥<b>15</b>.80</p>
+							<div class="yuanjia" style="margin-top:6px;">
+								<div class="zhekou"><a>2折</a></div>
+								<span style="margin-left:8px;">¥79</span>
+							</div>
+							<span style="margin-top:29px;">2466人已开抢</span>
+						</div>
+						<hr color="#eeeeee" style="float:left;width:990px;margin-top:20px;"/>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="over">
+			<div class="over_all">
+				<div class="over_top">
+					<a href="#"><p>友情链接：多麦CPS联盟 5w网址导航 金名网 开淘网 中国品牌服装网 简单网 女装批发 蹦蹦网 家分期</p></a>
+					<a href="#"><span>更多>></span></a>
+				</div>
+				<div class="over_middle">
+					<a href="#" style="margin-left:40px;">首页</a>
+					<a href="#">关于米折</a>
+					<a href="#">媒体报道</a>
+					<a href="#">人才招聘</a>
+					<a href="#">联系我们</a>
+					<a href="#">商务合作</a>
+					<a href="#">米折大使</a>
+					<a href="#">帮助中心</a>
+					<a href="#">联系客服</a>
+					<a href="#">手机客户端</a>
+					<a href="#" style="border:0;">网站地图</a>
+				</div>
+				<img src="../images/xinyong_56.gif" style="margin-left:130px;cursor:pointer;">
+				<div class="over_bottom">
+					<p>&copy 2011-2015米折网-杭州互秀电子商务有限公司 旗下导购返利网-浙ICP备12005806</p>
+					<div class="over_logo">
+						<a href="#"><img src="../images/fenxiang_60.gif"></a>
+						<p>分享米折网到：</p>
+						<a href="#"><img src="../images/fenxiang_62.gif"></a>
+						<a href="#"><img src="../images/fenxiang_63.gif"></a>
+						<a href="#"><img src="../images/fenxiang_64.gif"></a>
+						<a href="#"><img src="../images/fenxiang_65.gif"></a>
+						<a href="#"><img src="../images/fenxiang_66.gif"></a>
+						<a href="#"><img src="../images/fenxiang_67.gif"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
